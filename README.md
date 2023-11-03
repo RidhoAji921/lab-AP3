@@ -7,3 +7,6 @@ Berisi kumpulan kodingan yang digunakan berkaitan dengan lab AP3 kelas 2IA23. Ba
 happy coding 
 
 ![konata](https://github.com/RidhoAji921/lab-AP3/assets/95759011/984b43a2-5cdb-4648-ae85-bc8de1012adb)
+
+### Note
+- .vscode dipakai jika menggunakan vscode dan menggunakan extension C++
