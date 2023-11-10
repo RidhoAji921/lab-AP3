@@ -1,2 +1,3 @@
-Halo, ini adalah penulisan ke file menggunaklan ofstream.
-Ini adalah baris kedua dalam file
+Nama  : Ridho Aji Gumilang
+NPM   : 2IA23
+Kelas : 514224321
