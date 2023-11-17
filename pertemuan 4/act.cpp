@@ -9,9 +9,9 @@ int main()
 
     if (file.is_open())
     {
-        file << "Nama  : Ridho Aji Gumilang\n";
+        file << "Nama  : Nakamura Silitonga \n";
         file << "NPM   : 2IA23\n";
-        file << "Kelas : 514224321\n";
+        file << "Kelas : 51422203\n";
         file.close();
         cout << "Penulisan ke dalam file berhasil" << endl;
     }else{
